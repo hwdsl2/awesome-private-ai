@@ -60,6 +60,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 - [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) - Scalable Python model serving.
 - [Seldon Core](https://github.com/SeldonIO/seldon-core) - Kubernetes-native model deployment.
+- [Self-Hosted AI Stack](https://github.com/hwdsl2/self-hosted-ai-stack) - Docker Compose stack for private AI with local Ollama inference, a LiteLLM gateway, RAG, voice, and MCP tools.
 - [KServe](https://kserve.github.io/website/) - Serverless model inference on Kubernetes.
 - [BentoML](https://www.bentoml.com/) - Model packaging & serving framework.
 - [Triton Inference Server](https://github.com/triton-inference-server/server) - NVIDIA's multi-framework inference server, supporting TensorRT, PyTorch, ONNX, and vLLM backends behind one endpoint.
